@@ -60,3 +60,7 @@ paginate = 5
         identifier = "contact"
         name = "Contact"
         url = "/contact"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
