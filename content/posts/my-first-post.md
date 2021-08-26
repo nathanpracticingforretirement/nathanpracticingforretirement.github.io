@@ -3,6 +3,7 @@ title: "Quick Travel Summary"
 date: 2021-08-25T13:21:23+02:00
 draft: false
 ---
+
 Hello hello party people!! I have a whole lot to catch everyone up on. The last thing I want to give you is an excuse to TLDR this post. So, I am quickly summarizing my adventures up until the present. The plan for the future is to make posts giving details to past events along with updating y’all on current happenings.
 
 At twenty-four years of age, I have spent the last year and a half taking full advantage of the freedom bestowed upon me after finishing my eighteen year stint in the American education system. Graduating university marked the end of committed obligations and for the first time gave me the freedom to choose exactly what to do with my time, not only for short term but also long term. With this freedom I have chosen a path where I feel like I have more in common with an old retired person than an average office jockey my age. (With the catch of having significantly less money and significantly less financial security.)
@@ -20,3 +21,5 @@ Currently, I am staying with an old teammate from my collegiate volleyball days 
 Life’s for living people!
 
 Nate
+
+![At the lake](/images/1EE6EA92-C450-40AF-8A15-8EFA6229B057.jpeg)
