@@ -22,4 +22,8 @@ Life’s for living people!
 
 Nate
 
-![At the lake](/images/1EE6EA92-C450-40AF-8A15-8EFA6229B057.jpeg)
+![At the lake](/images/1EE6EA92-C450-40AF-8A15-8EFA6229B057.jpeg) 
+<p style="text-align:center"><b>Lakeside in Ance, France</b></p>
+
+![At the lake](/images/2043FF44-950F-40B0-8C02-395369EA4B58.jpeg) 
+<p style="text-align:center"><b>Oberon stickers are watching you everywhere in Spain</b></p>
