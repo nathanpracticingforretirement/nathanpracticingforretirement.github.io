@@ -1,5 +1,5 @@
 ---
-title: "Nates First Post"
+title: "Quick Travel Summary"
 date: 2021-08-25T13:21:23+02:00
 draft: false
 ---
