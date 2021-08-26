@@ -2,6 +2,7 @@
 title: "Quick Travel Summary"
 date: 2021-08-25T13:21:23+02:00
 draft: false
+cover: "/images/nathanheader2.jpg"
 ---
 
 Hello hello party people!! I have a whole lot to catch everyone up on. The last thing I want to give you is an excuse to TLDR this post. So, I am quickly summarizing my adventures up until the present. The plan for the future is to make posts giving details to past events along with updating y’all on current happenings.

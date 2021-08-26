@@ -1,13 +1,6 @@
 ---
-title: Contact
-description: We'd love to hear from you
-type: page
-menu:
-  main: {}
-
+title: "Contact"
+description: "Nate Dog"
 ---
 
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
-
-{{< form-contact action="http://formspree.io/your@email.com"  >}}
+To contact me you can email me at nathanthalken at the big G email service.
