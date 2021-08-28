@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
+googleAnalytics = "G-W9F6W4JQ0Q"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
@@ -28,7 +29,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Retirement Practice"
-    subtitle = "A simple theme for Hugo"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
