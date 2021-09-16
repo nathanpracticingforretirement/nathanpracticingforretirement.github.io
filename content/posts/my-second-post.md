@@ -1,5 +1,5 @@
 ---
-title: "Lessons learned from a Two Tour Bicycle Tourer"
+title: "Lessons Learned from a Two Tour Bicycle Tourer"
 date: 2021-09-16T13:21:23+02:00
 draft: false
 cover: ""
