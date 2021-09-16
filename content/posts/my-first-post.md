@@ -28,3 +28,6 @@ Nate
 
 ![At the lake](/images/2043FF44-950F-40B0-8C02-395369EA4B58.jpeg) 
 <p style="text-align:center"><b>Oberon stickers are watching you everywhere in Spain</b></p>
+
+![At the lake](/images/2043FF44-950F-40B0-8C02-395369EA4B58.jpeg) 
+<p style="text-align:center"><b>Oberon stickers are watching you everywhere in Spain</b></p>
